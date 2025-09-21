@@ -1,10 +1,10 @@
-# StoreSphere
+# ShopSphere
 
 An Advanced Ecommerce Backend Built with Django 5 and Django REST Framework
 
 ## About the Project
 
-Storefront is a robust and scalable ecommerce backend designed to handle a variety of ecommerce functionalities. It supports managing collections, products, customers, addresses, orders, carts, and reviews. The system also includes user authentication with JWT, permissions-based actions, and a customized admin interface using Jazzmin.
+shopsphere is a robust and scalable ecommerce backend designed to handle a variety of ecommerce functionalities. It supports managing collections, products, customers, addresses, orders, carts, and reviews. The system also includes user authentication with JWT, permissions-based actions, and a customized admin interface using Jazzmin.
 
 ## Features
 
@@ -68,8 +68,8 @@ Core
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sanzi87/storefront.git
-cd storefront
+git clone https://github.com/Sanzi87/shopsphere.git
+cd shopsphere
 ```
 
 2. Create a virtual environment:
@@ -173,4 +173,4 @@ For more info: [djoser JWT Endpoints](https://djoser.readthedocs.io/en/latest/jw
 
 This project is open-source and available under the MIT License.
 
-## Happy Coding! Build your ecommerce platform with Storefront! 🛍️
+## Happy Coding! Build your ecommerce platform with shopsphere! 🛍️

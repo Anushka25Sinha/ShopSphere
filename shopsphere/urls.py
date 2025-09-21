@@ -4,7 +4,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 """
-URL configuration for storefront project.
+URL configuration for shopsphere project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
@@ -20,7 +20,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 
-admin.site.site_header = 'Storefront Admin'
+admin.site.site_header = 'shopsphere Admin'
 admin.site.index_title = 'Administration'
 
 urlpatterns = [
