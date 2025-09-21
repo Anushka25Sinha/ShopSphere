@@ -1,4 +1,4 @@
-# Storefront
+# StoreSphere
 
 An Advanced Ecommerce Backend Built with Django 5 and Django REST Framework
 
